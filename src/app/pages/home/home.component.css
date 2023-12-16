@@ -1,0 +1,21 @@
+.container{
+    
+    border-color:black;
+    border-width: 5px;
+    border-style: solid;
+    background-color: rgb(163, 210, 251);
+
+    
+
+}
+
+
+div {
+    width: 700px;
+    padding: 50px;
+    margin: 350px;
+
+    
+  }
+    
+  
